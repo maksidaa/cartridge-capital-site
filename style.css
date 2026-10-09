@@ -1,0 +1,28 @@
+@font-face{font-family:'Pixelify Sans';src:url(fonts/pixelify-sans-latin-600-normal.woff2) format('woff2');font-weight:600;font-display:swap}
+@font-face{font-family:Rubik;src:url(fonts/rubik-latin-400-normal.woff2) format('woff2');font-weight:400;font-display:swap}
+@font-face{font-family:Rubik;src:url(fonts/rubik-latin-500-normal.woff2) format('woff2');font-weight:500;font-display:swap}
+:root{--bg:#e4e2ed;--panel:#f6f5fb;--ink:#1f1c33;--ink-2:#5a5677;--accent:#5b3fc4;--accent-deep:#3d2989;--gold:#ffd166;--frame:#2b2839;--line:#cdc9de}
+@media (prefers-color-scheme:dark){:root{--bg:#14131c;--panel:#1e1c2a;--ink:#eceaf6;--ink-2:#a9a6c2;--accent:#a48fff;--accent-deep:#6a54c9;--frame:#07060c;--line:#373349}}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{font:400 17px/1.6 Rubik,system-ui,-apple-system,'Segoe UI',sans-serif;color:var(--ink);background:var(--bg);background-image:radial-gradient(rgba(70,50,150,.08) 1px,transparent 1.4px);background-size:12px 12px}
+a{color:var(--accent)}
+.bar{height:6px;background:linear-gradient(90deg,var(--accent-deep) 0 48%,#e8453c 48% 61%,#f2b134 61% 74%,#2fb36f 74% 87%,#2a7de1 87%)}
+header{background:#17151f;color:#fff;text-align:center;padding:48px 16px 40px}
+header h1{font:600 clamp(34px,8vw,56px)/1.05 'Pixelify Sans',monospace;margin:0;color:var(--gold);text-shadow:0 0 14px rgba(255,209,102,.45);letter-spacing:.02em}
+header p{margin:12px auto 0;max-width:560px;color:#cfcbe6;font-size:18px}
+nav{display:flex;gap:18px;justify-content:center;flex-wrap:wrap;margin-top:22px}
+nav a{color:#fff;text-decoration:none;font-weight:500;border:2px solid #fff;padding:6px 14px}
+nav a:hover{background:#fff;color:#17151f}
+main{max-width:760px;margin:0 auto;padding:32px 16px 64px}
+.card{background:var(--panel);border:3px solid var(--frame);box-shadow:4px 4px 0 var(--frame);padding:24px;margin:0 0 24px}
+h2{font:600 24px/1.2 'Pixelify Sans',monospace;margin:0 0 12px}
+h3{font-size:18px;margin:20px 0 6px}
+p,li{color:var(--ink)}
+.muted{color:var(--ink-2)}
+ul{padding-left:22px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px}
+.shots{display:flex;gap:16px;overflow-x:auto;padding-bottom:8px}
+.shots img{width:220px;flex:none;border:3px solid var(--frame);box-shadow:4px 4px 0 var(--frame);image-rendering:auto}
+.cta{display:inline-block;background:var(--accent);color:#fff;text-decoration:none;font-weight:500;padding:12px 20px;border:3px solid var(--frame);box-shadow:4px 4px 0 var(--frame)}
+footer{text-align:center;color:var(--ink-2);font-size:14px;padding:0 16px 40px}
