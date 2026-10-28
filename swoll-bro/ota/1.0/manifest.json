@@ -1,4 +1,4 @@
 {
- "manifest": "{\"native\":\"1.0\",\"seq\":202610272052,\"url\":\"https://maksidaa.github.io/cartridge-capital-site/swoll-bro/ota/1.0/202610272052.zip\",\"sha256\":\"53619ad223c26bca4701718bd43d15b7cd99603cfdc3c9eeafa2af9940c3a179\",\"size\":1587233,\"notes\":\"Halloween snacks; 19 hidden costume pieces to find; growth sidebar and stage pay by stars; job money gauge plus a dog, heron and storm cloud; deeds pay every win; race robot and Moving Co. wall fixes; shorter late clocks; crash sound; battery saving; no heights shown\",\"created\":\"2026-10-28T01:52:37.443Z\"}",
- "signature": "XhGeRfqZMWKshhFAQs84mO1N6ChIJQI6yOEXy8EpXTImLuxGFEdwZbxtUF3CVRmmci1RxQLvcE27BTjQ2wyYqQ=="
+ "manifest": "{\"native\":\"1.0\",\"seq\":202610280849,\"url\":\"https://maksidaa.github.io/cartridge-capital-site/swoll-bro/ota/1.0/202610280849.zip\",\"sha256\":\"76abac1e3cc597ebe47c0ad41c45ce5a5eeb17771db19ba59b3e28b18cea68b8\",\"size\":1589792,\"notes\":\"Fixes: no more crash after several levels, the dam holds when the leak is plugged and every try starts fresh, Moving Day no longer pins you in the wall; size bar moved to the bottom; smaller, better-hidden gift boxes; loading text keeps one font\",\"created\":\"2026-10-28T13:49:12.065Z\"}",
+ "signature": "svfvAznVwEW0HZh5DJfkJJvZNphMEoLXMqSwaeQvwdAm8NxJvpaNSSzTQsrhEiyUTA6X0yLKXaw5U2cg4K7jhA=="
 }
