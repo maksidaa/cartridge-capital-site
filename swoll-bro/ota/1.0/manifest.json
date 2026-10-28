@@ -1,4 +1,4 @@
 {
- "manifest": "{\"native\":\"1.0\",\"seq\":202610280849,\"url\":\"https://maksidaa.github.io/cartridge-capital-site/swoll-bro/ota/1.0/202610280849.zip\",\"sha256\":\"76abac1e3cc597ebe47c0ad41c45ce5a5eeb17771db19ba59b3e28b18cea68b8\",\"size\":1589792,\"notes\":\"Fixes: no more crash after several levels, the dam holds when the leak is plugged and every try starts fresh, Moving Day no longer pins you in the wall; size bar moved to the bottom; smaller, better-hidden gift boxes; loading text keeps one font\",\"created\":\"2026-10-28T13:49:12.065Z\"}",
- "signature": "svfvAznVwEW0HZh5DJfkJJvZNphMEoLXMqSwaeQvwdAm8NxJvpaNSSzTQsrhEiyUTA6X0yLKXaw5U2cg4K7jhA=="
+ "manifest": "{\"native\":\"1.0\",\"seq\":202610280934,\"url\":\"https://maksidaa.github.io/cartridge-capital-site/swoll-bro/ota/1.0/202610280934.zip\",\"sha256\":\"56bdf215cb6ba9065fe88b7f1c50b93c24a8de6c1c953857bef3a04d4f423022\",\"size\":1590700,\"notes\":\"Boss lifts pay by time to the tenth of a second ($100 in 2 s or less), replays pay when you beat your best, NEW RECORD! celebration, time to beat shown\",\"created\":\"2026-10-28T14:34:31.814Z\"}",
+ "signature": "YGw1yJRsg+Jxx2szGQQKIgH/RGCsBNaVNzdxOvIX2pGXMsyU17/XYqElURg+s99if3UzdDX8lrqUurHrrZngGg=="
 }
