@@ -1,4 +1,4 @@
 {
- "manifest": "{\"native\":\"1.0\",\"seq\":202610280129,\"url\":\"https://maksidaa.github.io/cartridge-capital-site/ota/1.0/202610280129.zip\",\"sha256\":\"5c8ed6d6900eee9685a6fc498021749d520ef563042f7c0af5c2681125d61e68\",\"size\":889410,\"notes\":\"Reactor shutdown: a money-losing reactor can be switched off and restarted, so one bad build can't bankrupt a company\",\"created\":\"2026-10-28T06:29:46.644Z\"}",
- "signature": "odXsLjzL12eeFMYmmGqe7ogI9lH4ZdNAhMzu2lXtvrc8sx9b1dwKy209yRM1JtTDfD6Q1B3tAhlPMTQwVlT+2Q=="
+ "manifest": "{\"native\":\"1.0\",\"seq\":202610281736,\"url\":\"https://maksidaa.github.io/cartridge-capital-site/ota/1.0/202610281736.zip\",\"sha256\":\"86e5b0dcb6971c28db12b0fa1abd3c986265fa4b570c5264bc816d5ed4d1c7a8\",\"size\":889876,\"notes\":\"Close the world: a metaverse that loses money can be closed while residents wait, so one weak world can't sink a company\",\"created\":\"2026-10-28T22:36:07.928Z\"}",
+ "signature": "eELQrY8XAk6k2KmiK4RGuq+r5oHFza1Q6+5p5pQ3i8gjsr4cQMsJ/CE2qDZOixBIt0c/yk+URWtl9vlJMI5YYw=="
 }
