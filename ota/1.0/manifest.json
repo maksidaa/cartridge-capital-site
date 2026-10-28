@@ -1,4 +1,4 @@
 {
- "manifest": "{\"native\":\"1.0\",\"seq\":202610272215,\"url\":\"https://maksidaa.github.io/cartridge-capital-site/ota/1.0/202610272215.zip\",\"sha256\":\"1e28312d4b00db829a6e240762e48d46dcb93432dd5a7c5a1c928c1aaea8a6bd\",\"size\":888717,\"notes\":\"FM1/FM2 films (focus group, cast tiers, popularity-driven quality, Media Director); suggestion fix; playtest fixes (music, Home, executive cards, taps, Play button, property page, new-area pop-ups, executive suggestions)\",\"created\":\"2026-10-28T03:15:24.945Z\"}",
- "signature": "N6asKklWnIh2b1Utz1PLojIWIB2n53SYu6AI+je1y8rPZHw2HUsF0cpIk+xbIYuHL+Up32Ie9HliGgrvoVt7fw=="
+ "manifest": "{\"native\":\"1.0\",\"seq\":202610280129,\"url\":\"https://maksidaa.github.io/cartridge-capital-site/ota/1.0/202610280129.zip\",\"sha256\":\"5c8ed6d6900eee9685a6fc498021749d520ef563042f7c0af5c2681125d61e68\",\"size\":889410,\"notes\":\"Reactor shutdown: a money-losing reactor can be switched off and restarted, so one bad build can't bankrupt a company\",\"created\":\"2026-10-28T06:29:46.644Z\"}",
+ "signature": "odXsLjzL12eeFMYmmGqe7ogI9lH4ZdNAhMzu2lXtvrc8sx9b1dwKy209yRM1JtTDfD6Q1B3tAhlPMTQwVlT+2Q=="
 }
