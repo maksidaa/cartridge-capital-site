@@ -1,4 +1,4 @@
 {
- "manifest": "{\"native\":\"1.0\",\"seq\":202610300726,\"url\":\"https://maksidaa.github.io/cartridge-capital-site/ota/1.0/202610300726.zip\",\"sha256\":\"c82eb24eee8da9a63b6d07c5731c757e80eba4ab6633ea1794870271156bfad0\",\"size\":900030,\"notes\":\"Clearer money (film and construction costs count each week, split spending), CFO advice and pay, factories listed owned-then-for-sale, merchandise first in Add a product, green/red property values, no zoom in search boxes\",\"created\":\"2026-10-30T12:26:11.491Z\"}",
- "signature": "UoO+XXJjjoYFBNsjxV0SXCaKTmqnHTRxbrRMSXi4nORO+QwEjlIsintICdcu93Q2m8fpYYVK54vyjPhury8YDw=="
+ "manifest": "{\"native\":\"1.0\",\"seq\":202610300932,\"url\":\"https://maksidaa.github.io/cartridge-capital-site/ota/1.0/202610300932.zip\",\"sha256\":\"dfd70cf9ad5793b396bd16a5895ea451301f158f2b6c90ceb9433c3a0d0ed783\",\"size\":900020,\"notes\":\"Search boxes no longer zoom the app\",\"created\":\"2026-10-30T14:32:01.775Z\"}",
+ "signature": "rgwI7m421bSQaOdXElvviHCDVBcG3e73x7ml/P3YF7Qo0S+G+75hkQKm9TqrEUG7z27hQ+da3YB2Qb9/iDYfpA=="
 }
