@@ -1,4 +1,4 @@
 {
- "manifest": "{\"native\":\"1.0\",\"seq\":202610291455,\"url\":\"https://maksidaa.github.io/cartridge-capital-site/ota/1.0/202610291455.zip\",\"sha256\":\"a520daee311670645b0829a7ef39ab00c8b59dcec354e752f6c7700c59f72373\",\"size\":891287,\"notes\":\"Home shows each game's total profit, the next-step box can be closed, a Game studio row after hiring a studio executive, and sound comes back after switching apps\",\"created\":\"2026-10-29T19:55:40.070Z\"}",
- "signature": "57ohv1oZVaKF7cDexAtslFjvzaUtDzoeQLhP8BMUAhzBxYgJDtAFBfUAdNU9QJLDiYgAxw39xTa8WAxkB7rX7g=="
+ "manifest": "{\"native\":\"1.0\",\"seq\":202610300726,\"url\":\"https://maksidaa.github.io/cartridge-capital-site/ota/1.0/202610300726.zip\",\"sha256\":\"c82eb24eee8da9a63b6d07c5731c757e80eba4ab6633ea1794870271156bfad0\",\"size\":900030,\"notes\":\"Clearer money (film and construction costs count each week, split spending), CFO advice and pay, factories listed owned-then-for-sale, merchandise first in Add a product, green/red property values, no zoom in search boxes\",\"created\":\"2026-10-30T12:26:11.491Z\"}",
+ "signature": "UoO+XXJjjoYFBNsjxV0SXCaKTmqnHTRxbrRMSXi4nORO+QwEjlIsintICdcu93Q2m8fpYYVK54vyjPhury8YDw=="
 }
