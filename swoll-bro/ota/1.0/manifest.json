@@ -1,4 +1,4 @@
 {
- "manifest": "{\"native\":\"1.0\",\"seq\":202611041549,\"url\":\"https://maksidaa.github.io/cartridge-capital-site/swoll-bro/ota/1.0/202611041549.zip\",\"sha256\":\"1c041f4c01d468ead5e24e5537da68212223183c205d9ec25560809f89271350\",\"size\":1799670,\"notes\":\"The Forest up the valley: the creek, the woods and lake, the back country and the grove under the falls; Rome, the Mall and the Nano Realm open later in the game\",\"created\":\"2026-11-04T21:49:14.028Z\"}",
- "signature": "BXiuRH5EkM7ZqZemwz8va2zMQSqTJIrJFnCSlyPcN1vzajEtJoBWj3EKjUqsUBOXaLi5g2sPTx4tksqO/AOKCw=="
+ "manifest": "{\"native\":\"1.0\",\"seq\":202611042125,\"url\":\"https://maksidaa.github.io/cartridge-capital-site/swoll-bro/ota/1.0/202611042125.zip\",\"sha256\":\"cf4e763df6ede2c9806c828e185d85455db2310c002338e7347a6c80db409b24\",\"size\":1799740,\"notes\":\"Fix: updates that got lost when a new TestFlight build installed come back; sound plays with the phone on silent\",\"created\":\"2026-11-05T03:25:32.586Z\"}",
+ "signature": "gsn/p5/0Ar2KlVykVKHPyANBfdhtiDQAmd7G78JrdfBdda2e6/joYsxSYcR/vync4JKEEy2OJHr9kcbs8ca3LQ=="
 }
