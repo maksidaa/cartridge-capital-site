@@ -1,4 +1,4 @@
 {
- "manifest": "{\"native\":\"1.0\",\"seq\":202611042125,\"url\":\"https://maksidaa.github.io/cartridge-capital-site/swoll-bro/ota/1.0/202611042125.zip\",\"sha256\":\"cf4e763df6ede2c9806c828e185d85455db2310c002338e7347a6c80db409b24\",\"size\":1799740,\"notes\":\"Fix: updates that got lost when a new TestFlight build installed come back; sound plays with the phone on silent\",\"created\":\"2026-11-05T03:25:32.586Z\"}",
- "signature": "gsn/p5/0Ar2KlVykVKHPyANBfdhtiDQAmd7G78JrdfBdda2e6/joYsxSYcR/vync4JKEEy2OJHr9kcbs8ca3LQ=="
+ "manifest": "{\"native\":\"1.0\",\"seq\":202611042258,\"url\":\"https://maksidaa.github.io/cartridge-capital-site/swoll-bro/ota/1.0/202611042258.zip\",\"sha256\":\"d5014094237835bbe42171ee791c7ee2a0a8ab37b6135a7b81d7824def20a44c\",\"size\":1800314,\"notes\":\"Lift It All in the Kitchen: every thing but the house plant counts, and Brody grows into them past 3 stars\",\"created\":\"2026-11-05T04:58:57.019Z\"}",
+ "signature": "QND9VcrrubStMzwS5fLdt9W/MNV939BjiBQ99K+LRsp/h2ogy/Tx+dxm61CLCO1uVBOyTeWoPX3rtsZQOx573A=="
 }
