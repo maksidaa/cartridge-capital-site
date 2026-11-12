@@ -1,4 +1,4 @@
 {
- "manifest": "{\"native\":\"1.0\",\"seq\":202611041920,\"url\":\"https://maksidaa.github.io/cartridge-capital-site/ota/1.0/202611041920.zip\",\"sha256\":\"bda79acf1fa5b1470826c9f0d788f6f65b9a5397e3aa4787111aa61e9d799ac3\",\"size\":1039972,\"notes\":\"Space missions, Dino Island, clearer loss alerts and tester fixes\",\"created\":\"2026-11-05T01:20:06.511Z\"}",
- "signature": "jYUYGXkpq0QqOD1/rnyN/koeJOrtzFvKwQOPAtV+hNg58q4nvVKpXV6Pi/1WKZ5kTRlKJteMLCvN3yKqBnId3g=="
+ "manifest": "{\"native\":\"1.0\",\"seq\":202611121703,\"url\":\"https://maksidaa.github.io/cartridge-capital-site/ota/1.0/202611121703.zip\",\"sha256\":\"d43f861d392f5d2071c61b2e20c2efecad8d61a2b7f6745f52b1f99c1340bde9\",\"size\":1082509,\"notes\":\"Game map: areas open when useful, five career stages, franchise from a hit, play statistics, new Finance and Research\",\"created\":\"2026-11-12T23:03:32.835Z\"}",
+ "signature": "7RgPngwxLWov/0lE8NdbCtxCb5U1L/nV1Mqwk4kZuw0Ez8j+KEtyc55533Evx9Gl1KdDuVHf5ZoHI3srCSWqKw=="
 }
