@@ -1,4 +1,4 @@
 {
- "manifest": "{\"native\":\"1.0\",\"seq\":202611191253,\"url\":\"https://maksidaa.github.io/cartridge-capital-site/ota/1.0/202611191253.zip\",\"sha256\":\"13fe63c6b847fd8da4dd77739b8f9e479e616666925a1033932ba72c4f33c4df\",\"size\":1607365,\"notes\":\"Spotlight press storms, PR Director, exec unlock bar, legacy risks, big-moment animations\",\"created\":\"2026-11-19T18:54:14.252Z\"}",
- "signature": "ikQKm8G+Y2FLryBnY9MDvcSGS0flw6acc8uQRry5/9WPPkdwpCQ4B0KnEBkHg/13FGkPyUjkVilowiHWF3EGCQ=="
+ "manifest": "{\"native\":\"1.0\",\"seq\":202611191501,\"url\":\"https://maksidaa.github.io/cartridge-capital-site/ota/1.0/202611191501.zip\",\"sha256\":\"46cceec420d5433ca57c512914d42c82f928d0f7eee58ee35fdeae4a175bbcda\",\"size\":1609036,\"notes\":\"Weekly stutter fix: week about 60% cheaper, autosave when idle\",\"created\":\"2026-11-19T21:01:40.919Z\"}",
+ "signature": "0TdIG3W0hq6/HGkTVLVkQO+OyyaIQjY8sLSw43/+JAvsWXpNgdC6PDPW3GuiFwpzKv6cvnGUiXYR+6KyZ8kxqw=="
 }
