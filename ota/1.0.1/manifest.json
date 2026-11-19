@@ -1,4 +1,4 @@
 {
- "manifest": "{\"native\":\"1.0.1\",\"seq\":202611191501,\"url\":\"https://maksidaa.github.io/cartridge-capital-site/ota/1.0.1/202611191501.zip\",\"sha256\":\"7fcaf7f346a8e472e365aa9ea0d52a32de420e2693a6f2ade1dc03ea947f9eec\",\"size\":1609036,\"notes\":\"Weekly stutter fix: week about 60% cheaper, autosave when idle\",\"created\":\"2026-11-19T21:01:41.502Z\"}",
- "signature": "LeSnRDJ1OK4Kp86kT1atWk/FLy4CD5LEGjNRMLA04R/5UXNFgg6HQUPM9CixIe38JpRr59Zi65rV76dH0dRvZQ=="
+ "manifest": "{\"native\":\"1.0.1\",\"seq\":202611191710,\"url\":\"https://maksidaa.github.io/cartridge-capital-site/ota/1.0.1/202611191710.zip\",\"sha256\":\"24fed8489d296b7c8e0e791d60f4c8d0c51a4a1a2e3751b27ad61c1f7afc211a\",\"size\":1638118,\"notes\":\"Faster weeks, media shows, startups and research makeovers, grants fix, tap while scrolling, rescue scenes\",\"created\":\"2026-11-19T23:11:21.537Z\"}",
+ "signature": "1wX6T0fyEEsscFq/u8roM258Km1O4Tu5HT8UJSDsuy+bFfV78V0Lh+klwsmKNO8HYSaC4VRQ8uTJUX3GrO/64Q=="
 }
