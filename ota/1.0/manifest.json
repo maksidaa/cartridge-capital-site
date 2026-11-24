@@ -1,4 +1,4 @@
 {
- "manifest": "{\"native\":\"1.0\",\"seq\":202611231437,\"url\":\"https://maksidaa.github.io/cartridge-capital-site/ota/1.0/202611231437.zip\",\"sha256\":\"44efe1f658fa30ddd7bd0c60a76653d89ce6fd4848eb09b98d5741d813753a67\",\"size\":1827174,\"notes\":\"New Research screen with paths and Queue path; close a lab; Businesses; Dirty tricks; team ideas; clearer choices\",\"created\":\"2026-11-23T20:38:03.345Z\"}",
- "signature": "L5kDjq5xUI0fu7xvLegWzVKPDvfpFDl+wkaA5h+ZpGMiSfnC2pqyryEZKk0aRRAJM+YubwoyEjvY+iTko9Km9Q=="
+ "manifest": "{\"native\":\"1.0\",\"seq\":202611232121,\"url\":\"https://maksidaa.github.io/cartridge-capital-site/ota/1.0/202611232121.zip\",\"sha256\":\"23ca314f999f7e4c6c60eb0b7edb6c25c11520199e8670a5d1e80a840f698ca0\",\"size\":1825455,\"notes\":\"Source commit 35e0e62b (35e0e62b99a5745f5c006cfbbf57af26df5181cf)\",\"created\":\"2026-11-24T03:23:14.242Z\"}",
+ "signature": "ZlBcumI6JRPO0bjuU26YcfXg52fzgZofdCbfP92cproweTz18TXGF0m6N0HfDt5cC/sBSG3kSCIY4GLz4v8uqA=="
 }
