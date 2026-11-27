@@ -1,4 +1,4 @@
 {
- "manifest": "{\"native\":\"1.0\",\"seq\":202611271133,\"url\":\"https://maksidaa.github.io/cartridge-capital-site/ota/1.0/202611271133.zip\",\"sha256\":\"967e4be288be3b27390e32eca5a3c8df017ffb3722f3c8dc323d32fe7e2c24b1\",\"size\":2156558,\"notes\":\"Source commit c623ecb6 (c623ecb6ee9cd7e644823d88fa62892b57de5815)\",\"created\":\"2026-11-27T17:33:51.080Z\"}",
- "signature": "HtJCjOfDPG7wwF9GZnSNgel4Ykk1E2W/vaeor8Rf5rQtSDb0taWA1u+eYCdpeKm8kGmLbXg/y7hEKTQCMvjcAQ=="
+ "manifest": "{\"native\":\"1.0\",\"seq\":202611271247,\"url\":\"https://maksidaa.github.io/cartridge-capital-site/ota/1.0/202611271247.zip\",\"sha256\":\"403aaca27df1b9608ce5aafb78e12693c1b7345d916b5707605d9968b32c0173\",\"size\":2156096,\"notes\":\"Source commit dede4de7 (dede4de7b4ffe094df5c7a29e082598ab9da4d80)\",\"created\":\"2026-11-27T18:47:57.359Z\"}",
+ "signature": "vdl7SU9XMBtmvgBayRermutgxO5KOBEmo48ZPHN5fAWdROEOYESZlwgwLhIKFglbGsk2yd8GG0BUozTLYcpT8g=="
 }
